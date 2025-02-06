@@ -3,6 +3,7 @@ function firstWord(s) {
 	let str = s.trim();
 	str.split(" ");
 
+	return str[0];
 }
 
 // Do not change the code below
